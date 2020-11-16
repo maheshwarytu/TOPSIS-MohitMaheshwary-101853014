@@ -9,7 +9,7 @@ setup(
   author = 'Mohit Maheshwary',
   author_email = 'mmaheshwary_be18@thapar.edu',
   url = 'https://github.com/maheshwarytu/TOPSIS-MohitMaheshwary-101853014',
-  download_url = 'https://github.com/maheshwarytu/TOPSIS-MohitMaheshwary-101853014/archive/v_1.0.0.tar.gz',
+  download_url = 'https://github.com/maheshwarytu/TOPSIS-MohitMaheshwary-101853014/archive/v1.tar.gz',
   keywords = ['topsis', 'thapar', 'rank', 'topsis score'], 
   install_requires=["pandas"],
   classifiers=[
